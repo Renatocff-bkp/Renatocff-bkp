@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="836" height="190" viewBox="0 0 836 190" role="img" aria-label="Renato Figueredo — Engenheiro de IA · Full Stack há 8+ anos · Pós em Engenharia de IA">
+<style>@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}.c{animation:blink 1s steps(1) infinite}</style>
+<rect width="836" height="190" fill="#04060c"/>
+<text x="0" y="24" font-family="'JetBrains Mono', Consolas, 'Cascadia Mono', 'Courier New', monospace" font-size="13" letter-spacing="2.6" fill="#5ef2ff">// IDENTIDADE</text>
+<text x="0" y="96" font-family="'Space Grotesk', 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="64" font-weight="700" fill="#eaf6ff">Renato Figueredo</text>
+<rect class="c" x="588" y="52" width="14" height="46" fill="#ff5ec8"/>
+<text x="0" y="138" font-family="'Space Grotesk', 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="20" fill="#9fb3c8">Engenheiro de IA · Full Stack há 8+ anos · Pós em Engenharia de IA</text>
+<text x="0" y="168" font-family="'Space Grotesk', 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="20" fill="#9fb3c8">Levo LLMs, RAG e agentes para produção, com testes, ADRs e segurança.</text>
+</svg>

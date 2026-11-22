@@ -1,0 +1,31 @@
+{
+  "username": "Renatocff-bkp",
+  "name": "Renato Figueredo",
+  "tagline": "Engenheiro de IA · Full Stack há 8+ anos · Pós em Engenharia de IA",
+  "tagline2": "Levo LLMs, RAG e agentes para produção, com testes, ADRs e segurança.",
+  "links": [
+    {"label": "LinkedIn", "url": "https://www.linkedin.com/in/renato-figueredo-1261a0236", "logo": "linkedin"}
+  ],
+  "thoughts": ["LLMs em produção", "RAG · Qdrant · Weaviate", "agentes · LangGraph", "human-in-the-loop", "IA do zero em TS", "spec → TDD → PR"],
+  "projects": [
+    {"name": "rc-workspace", "repo": "", "status": "47 specs · 43 ADRs",
+     "desc": "Carreira com IA: RAG sobre vagas, currículo por vaga em PDF, agente diário multi-fonte e posts para o LinkedIn.",
+     "stack": "NestJS · Next.js 16 · Drizzle · pg-boss · Qdrant"},
+    {"name": "Kortex Jurídico", "repo": "", "status": "pré-MVP",
+     "desc": "LegalTech B2B: do áudio, imagem e PDF ao dossiê probatório, com IA auditável e decisão final do advogado.",
+     "stack": "NestJS · Prisma · BullMQ · Claude · Whisper"},
+    {"name": "Agentes com RAG", "repo": "coders-university-module-04", "status": "pós-graduação",
+     "desc": "Chat com streaming, ingestão com deduplicação, observabilidade com OpenTelemetry e testes de carga com k6.",
+     "stack": "NestJS · LangChain.js · LangGraph · Weaviate"},
+    {"name": "Rede neural do zero", "repo": "machine-learning-treinamento-ia-nativo", "status": "7 classes · 55,6%",
+     "desc": "CNN escrita à mão em TypeScript, sem bibliotecas de IA: convolução, retropropagação e otimizador.",
+     "stack": "TypeScript · Node.js · CIFAR-10/100"},
+    {"name": "concursIA", "repo": "", "status": "fase 1",
+     "desc": "Ingere provas e edital, roda simulados com rastro de desempenho e aponta onde estudar rende mais ponto por hora.",
+     "stack": "Next.js · NestJS · Prisma · pgvector · BullMQ"},
+    {"name": "Saúde digital · iDun", "repo": "", "status": "2022 → hoje",
+     "desc": "Full stack na área da saúde: microsserviços NestJS com mensageria, front em Angular e automações com n8n.",
+     "stack": "Angular · NestJS · RabbitMQ · MongoDB · Redis"}
+  ],
+  "stack": ["OpenAI", "Claude", "Whisper", "LangChain.js", "LangGraph", "Qdrant", "Weaviate", "pgvector", "TypeScript", "Python", "Node.js", "NestJS", "Next.js", "React", "Angular", "PostgreSQL", "Drizzle", "Prisma", "MongoDB", "Redis", "BullMQ", "pg-boss", "RabbitMQ", "GraphQL", "Playwright", "Vitest", "k6", "OpenTelemetry", "n8n", "Docker", "Supabase", "AWS"]
+}
